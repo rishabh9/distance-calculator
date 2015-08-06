@@ -17,6 +17,6 @@ Add the dependency (there are no releases, so you are going to be using the late
 	<dependency>
 	    <groupId>com.github.rishabh9</groupId>
 	    <artifactId>distance-calculator</artifactId>
-	    <version>601862c270</version>
+	    <version>v1.0.0-alpha.1</version>
 	</dependency>
 
